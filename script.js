@@ -3,8 +3,6 @@ const firebaseConfig = {
   apiKey: "AIzaSyBHUjki5Ezg58AqYf14OrNlCIgjmlZsgPw",
   authDomain: "ghgghg-om52uo.firebaseapp.com",
   projectId: "ghgghg-om52uo",
-  storageBucket: "ghgghg-om52uo.appspot.com",
-  messagingSenderId: "151770579575",
   appId: "1:151770579575:web:24569742abdfefeb02fc72"
 };
 
