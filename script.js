@@ -334,7 +334,7 @@ const firebaseConfig = {
 
   menuOpenBtn.addEventListener('click', openMenu);
 
-  // ---- Top banner — opens the Play Store listing ----
+  // ---- Top banner opens the Play Store listing ----
   // Replace this with your actual Play Store URL.
   const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=com.diskwalaapp';
   document.getElementById('banner').addEventListener('click', () => {
